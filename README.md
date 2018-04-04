@@ -1,6 +1,6 @@
 # SPIDER_PAOCAO
 
-[![GitHub release](https://img.shields.io/badge/version-v1.0.0(alpha 1)-brightgreen.svg)](https://github.com/seuxw/spider_paocao)
+[![GitHub release](https://img.shields.io/badge/version-v1.0.0(alpha%201)-brightgreen.svg)](https://github.com/seuxw/spider_paocao)
 [![GitHub issues](https://img.shields.io/github/issues/seuxw/spider_paocao.svg)](https://github.com/seuxw/spider_paocao/issues)
 [![GitHub stars](https://img.shields.io/github/stars/seuxw/spider_paocao.svg)](https://github.com/seuxw/spider_paocao/stargazers)
 [![GitHub license](https://img.shields.io/github/license/seuxw/spider_paocao.svg)](https://github.com/seuxw/spider_paocao/blob/master/LICENSE)
