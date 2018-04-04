@@ -57,7 +57,6 @@ pip3 install selenium
 
 + 优化README描述
 + 用户查询跑操详情查询
-+ 完成Windows Server平台下测试（已完成0%）
 + Linux平台下测试（已完成0%）
 
 ## History
