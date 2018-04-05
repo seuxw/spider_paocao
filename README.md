@@ -12,6 +12,7 @@
 + Requirements
 + Quick Start
 + To Do List
++ F&Q
 + History
 + License
 
@@ -44,7 +45,6 @@ pip3 install selenium
 + 若执行pip3时出现 “Unable to create process using '"'” 请通过 “python3 -m pip install --upgrade pip” 命令升级你的pip
 + 如果您不想将tesseract加入PATH，请参考sele.py中的注释代码
 + 数据库版本为MySQL5.7，如果您使用其他版本的数据库，欢迎将使用中遇到的问题反馈给我们
-+ 如果您在使用中遇到其他问题，都可加入此QQ群交流讨论 [小微测试交流群2017]("https://jq.qq.com/?_wv=1027&k=57ZMWxY")
 
 ## Quick Start
 
@@ -57,7 +57,13 @@ pip3 install selenium
 
 + 优化README描述
 + 用户查询跑操详情查询
-+ Linux平台下测试（已完成0%）
++ Linux平台下测试（已完成10%）
+
+## F&Q
+
++ 如果您在运行爬虫时遇到如下警告："UserWarning: Selenium support for PhantomJS has been deprecated, please use headless versions of Chrome or Firefox instead"
+  > 请暂时更换使用较低版本的Selenium，我们将在下一版本使用headless版本的Chrome或Firefox浏览器替代PhantomJS
++ 如果您在使用中遇到其他问题，都可加入此QQ群交流讨论 [小微测试交流群2017]("https://jq.qq.com/?_wv=1027&k=57ZMWxY")
 
 ## History
 
