@@ -1,11 +1,15 @@
-# SPIDER_PAOCAO
+# ~~SPIDER_PAOCAO~~
 
 [![GitHub release](https://img.shields.io/badge/version-v1.0.0(alpha%201)-brightgreen.svg)](https://github.com/seuxw/spider_paocao)
 [![GitHub issues](https://img.shields.io/github/issues/seuxw/spider_paocao.svg)](https://github.com/seuxw/spider_paocao/issues)
 [![GitHub stars](https://img.shields.io/github/stars/seuxw/spider_paocao.svg)](https://github.com/seuxw/spider_paocao/stargazers)
 [![GitHub license](https://img.shields.io/github/license/seuxw/spider_paocao.svg)](https://github.com/seuxw/spider_paocao/blob/master/LICENSE)
 
-东大小微体育系跑操爬虫。
+东大小微体育系跑操爬虫（已归档）。
+
+由于学校体育系网站仅允许内网访问，且挂校内 VPN 同样被屏蔽，该版本已归档弃用。
+
+新版本基于 Vue 的移动版请移步 [seuxw/PCSV](https://github.com/seuxw/PCSV)。
 
 ## Table of Contents
 
@@ -66,6 +70,13 @@ pip3 install selenium
 + 如果您在使用中遇到其他问题，都可加入此QQ群交流讨论 [小微测试交流群2017]("https://jq.qq.com/?_wv=1027&k=57ZMWxY")
 
 ## History
+
++ 更新日志181122
+  > [ v1.0.0(alpha 1) ]
+  >
+  > 版本说明：
+  >
+  > 由于技术栈限制，该版本已归档弃用，新版本请移步 [seuxw/PCSV](https://github.com/seuxw/PCSV)。
 
 + 更新日志180403
   > [ v1.0.0(alpha 1) ]
